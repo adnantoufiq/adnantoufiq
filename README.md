@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on (cartup.com)
+- 🔭 I’m currently working on e-comerce app (https://cartup.com/)
 
 - 🌱 I’m currently learning **Nodejs, Redux, React, Expressjs**
 
